@@ -1,0 +1,47 @@
+andy1
+
+
+
+ Volume in drive E is Local Drive
+ Volume Serial Number is 6645-8F99
+
+ Directory of E:\
+
+03/26/2019  10:56 AM    <DIR>          Andy Documents
+10/18/2018  11:42 AM    <DIR>          Archive Documents
+07/03/2018  12:34 PM    <DIR>          Documents
+08/24/2018  04:01 PM    <DIR>          Downloads
+11/07/2007  08:00 AM            17,734 eula.1028.txt
+11/07/2007  08:00 AM            17,734 eula.1031.txt
+11/07/2007  08:00 AM            10,134 eula.1033.txt
+11/07/2007  08:00 AM            17,734 eula.1036.txt
+11/07/2007  08:00 AM            17,734 eula.1040.txt
+11/07/2007  08:00 AM               118 eula.1041.txt
+11/07/2007  08:00 AM            17,734 eula.1042.txt
+11/07/2007  08:00 AM            17,734 eula.2052.txt
+11/07/2007  08:00 AM            17,734 eula.3082.txt
+11/07/2007  08:00 AM             1,110 globdata.ini
+11/07/2007  08:44 AM           855,040 install.exe
+11/07/2007  08:00 AM               843 install.ini
+11/07/2007  08:44 AM            75,280 install.res.1028.dll
+11/07/2007  08:44 AM            95,248 install.res.1031.dll
+11/07/2007  08:44 AM            90,128 install.res.1033.dll
+11/07/2007  08:44 AM            96,272 install.res.1036.dll
+11/07/2007  08:44 AM            94,224 install.res.1040.dll
+11/07/2007  08:44 AM            80,400 install.res.1041.dll
+11/07/2007  08:44 AM            78,864 install.res.1042.dll
+11/07/2007  08:44 AM            74,768 install.res.2052.dll
+11/07/2007  08:44 AM            95,248 install.res.3082.dll
+01/19/2017  05:02 PM    <DIR>          MS Office Professional Plus 2013 with Service Pack 1 (x64)
+01/20/2017  04:05 PM       801,814,960 MS Office Professional Plus 2013 with Service Pack 1 (x64).zip
+08/16/2018  03:53 PM    <DIR>          Program Files (x86)
+05/29/2015  04:33 PM    <DIR>          ProjectTemplates
+12/04/2018  10:39 AM    <DIR>          temp
+05/29/2015  04:33 PM    <DIR>          Templates
+11/07/2007  08:00 AM             5,686 vcredist.bmp
+11/07/2007  08:50 AM         1,927,956 VC_RED.cab
+11/07/2007  08:53 AM           242,176 VC_RED.MSI
+08/16/2018  04:42 PM    <DIR>          VM
+12/20/2017  06:02 PM               768 _desktopviewer_trace_AJ04-PC.log
+              26 File(s)    805,763,361 bytes
+              10 Dir(s)  946,465,857,536 bytes free
